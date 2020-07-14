@@ -12,3 +12,5 @@ using a web project.
 Sample website with plenty of files for demos
 
 ## Deployment
+
+This section is about deployment process.

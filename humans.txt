@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Can Burak canburak.turkmen1@gmail.com
 
 # THANKS
 

@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This section is about deployment process.
+
+### Copyright
+
+2014 Git.Training.
